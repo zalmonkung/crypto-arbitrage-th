@@ -1,0 +1,16 @@
+{
+  "name": "crypto-arbitrage-br",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "forex@forex-social.com",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "beepbeep": "^1.2.1",
+    "ccxt": "^1.10.97",
+    "lodash": "^4.17.4"
+  }
+}
